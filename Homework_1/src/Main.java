@@ -9,7 +9,7 @@ public class Main {
             System.out.println();
         }
         System.out.println();
-           // or
+        // or
         // for (int row = 1; row < R; row ++
         // System.out.println("1 2 3 4 5");
         // also works but without nested loops
@@ -22,7 +22,5 @@ public class Main {
             System.out.println();
 
         }
-
-
     }
 }
