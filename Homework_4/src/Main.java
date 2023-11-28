@@ -18,6 +18,11 @@ public class Main {
             String ch = "*";
             for (int sym = 1; sym <= row; sym ++)
                 System.out.print(ch);
+
+            String ch2 = "-";
+            for (int sym = 5; sym >= row; sym--)
+                System.out.print(ch2);
+
             System.out.println();
         }
     }
